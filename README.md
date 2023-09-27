@@ -11,3 +11,5 @@ Add the digits in the 1st, 3rd, 5th, 7th and 9th digits, multiply by 7 and subtr
 The units digit of the result obtained (mod 10) gives the 10th digit of the ID number.
 When we add the first 9 digits of the ID number and the 10th digit obtained by the above method, the ones digit (mod 10) gives the 11th digit.
 
+### Project Outcome
+https://tc-id-number-algorithm.vercel.app
